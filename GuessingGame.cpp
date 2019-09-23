@@ -1,3 +1,9 @@
+/*Author: Devin Leigh
+  Date: 9/23/2019 (added header comment today)
+  Project: Guessing Game
+  Connor told me to do this - I don't see any requirements for a header
+*/
+
 #include <iostream>
 #include <time.h>
 #include <stdlib.h>
